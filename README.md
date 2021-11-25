@@ -21,7 +21,7 @@ You can download them from the code part or clone the repository (if you know ho
 ## How do I list new topics
 Go to [Issues](https://github.com/AbhijithGanesh/JupyterNotebooks-Introduction-to-Python/issues) and make an issue for your topic, we'll soon create learning files for it
 
-##How Can I contribute?
+## How Can I contribute?
 You can fork the repository and make PRs, which we'll review and merge.
 Do star the repository please⭐ 
 
