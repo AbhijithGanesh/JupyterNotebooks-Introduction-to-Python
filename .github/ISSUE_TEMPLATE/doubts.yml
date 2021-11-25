@@ -1,7 +1,7 @@
-name: Topic Request
+name: Topic Request💡
 
 description: Suggest a topic to be covered
-title: "<Add a brief title for your idea> "
+title: "[REQUEST]: <Add your title here>"
 labels: [community, triage, help wanted]
 
 body:
