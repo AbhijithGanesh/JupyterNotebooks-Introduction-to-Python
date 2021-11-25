@@ -13,7 +13,7 @@ To install it, you need to go to the [installation](https://jupyter.org/install)
 ## How do I get these files
 You can download them from the code part or clone the repository (if you know how to use Git).
 
-## asic steps:
+## Basic steps:
 -  Clone/Download the files
 -  If you're in windows, open JupyterNotebook from search
 - Once you have opened , try opening the downloaded/cloned files there, _voila_ you are good to go.
